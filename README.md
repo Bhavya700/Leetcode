@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavya700/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavya700/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
