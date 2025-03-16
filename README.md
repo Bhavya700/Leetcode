@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhavya700/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/Bhavya700/Leetcode/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/Bhavya700/Leetcode/tree/master/0605-can-place-flowers) |
 | [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Bhavya700/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Bhavya700/Leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Bhavya700/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Bhavya700/Leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Bhavya700/Leetcode/tree/master/0649-dota2-senate) |
 | [2470-removing-stars-from-a-string](https://github.com/Bhavya700/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavya700/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/Bhavya700/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Bhavya700/Leetcode/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhavya700/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Bhavya700/Leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Bhavya700/Leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Bhavya700/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Bhavya700/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhavya700/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/Bhavya700/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Bhavya700/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Bhavya700/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
@@ -197,7 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Bhavya700/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Bhavya700/Leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Bhavya700/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Bhavya700/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Bhavya700/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
