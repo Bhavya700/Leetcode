@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Bhavya700/Leetcode/tree/master/0605-can-place-flowers) |
+| [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Bhavya700/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0054-spiral-matrix) |
+| [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhavya700/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0871-keys-and-rooms](https://github.com/Bhavya700/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
