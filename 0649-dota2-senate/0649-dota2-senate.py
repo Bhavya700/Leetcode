@@ -1,4 +1,3 @@
-from collections import deque
 class Solution:
     def predictPartyVictory(self, senate: str) -> str:
         R=[]
@@ -18,7 +17,3 @@ class Solution:
                 D.append(n+d)
 
         return "Radiant" if R else "Dire"
-            
-        
-                
-
