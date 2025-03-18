@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Bhavya700/Leetcode/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/Bhavya700/Leetcode/tree/master/0605-can-place-flowers) |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/Bhavya700/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Bhavya700/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
