@@ -1,47 +1,23 @@
-class Node:
-    def __init__(self, key, val):
-        self.key = key
-        self.val = val
-        self.prev = None
-        self.next = None
-
 
 class LRUCache:    
     def __init__(self, capacity: int):
-        self.cap = capacity
-        self.l = Node(-1, -1)
-        self.r = Node(-1, -1)
-        self.l.next = self.r
-        self.r.prev = self.l
-        self.cache = {}
-
-    def remove(self, node)-> None:
-        prv, nxt= node.prev, node.next
-        prv.next, nxt.prev= nxt, prv
-
-    def insert(self, node) -> None:
-        prv, nxt = self.r.prev, self.r
-        prv.next = nxt.prev = node
-        node.next, node.prev=nxt, prv
+        self.capacity = capacity
+        self.dd = OrderedDict()
 
     def get(self, key: int) -> int:
-        if key in self.cache:
-            self.remove(self.cache[key])
-            self.insert(self.cache[key])
-            return self.cache[key].val
+        if key in self.dd:
+            self.dd.move_to_end(key)
+            return self.dd[key]
         else:
             return -1
     
     def put(self, key: int, value: int) -> None:
-        if key in self.cache:
-            self.remove(self.cache[key])
-        self.cache[key] = Node(key, value)
-        self.insert(self.cache[key])
-
-        if len(self.cache)>self.cap:
-           lru=self.l.next
-           self.remove(lru)
-           del self.cache[lru.key]
+        if key in self.dd:
+            self.dd.move_to_end(key)
+        self.dd[key] = value
+        if len(self.dd)>self.capacity:
+            self.dd.popitem(last=False)
+        
     
 
 
