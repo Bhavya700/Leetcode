@@ -1,7 +1,7 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         visit=set()
-        hash_map={ i:[] for i in range(numCourses) }
+        hash_map=defaultdict(list)        
         for course, pre in prerequisites:
             hash_map[course].append(pre)
         
