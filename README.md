@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bhavya700/Leetcode/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bhavya700/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavya700/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Bhavya700/Leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhavya700/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavya700/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Bhavya700/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhavya700/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhavya700/Leetcode/tree/master/0200-number-of-islands) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavya700/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Bhavya700/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Memoization
 |  |
