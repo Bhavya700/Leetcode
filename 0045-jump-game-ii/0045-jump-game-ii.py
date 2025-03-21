@@ -9,6 +9,8 @@ class Solution:
             if i == end:
                 ans+=1
                 end=far
+                if end>=n-1:
+                    break
         return ans
         
 
