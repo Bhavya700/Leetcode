@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Bhavya700/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhavya700/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Bhavya700/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Bhavya700/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Bhavya700/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Bhavya700/Leetcode/tree/master/0443-string-compression) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Bhavya700/Leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Bhavya700/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Stack
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
