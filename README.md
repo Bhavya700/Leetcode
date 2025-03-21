@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavya700/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Bhavya700/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhavya700/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhavya700/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Bhavya700/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhavya700/Leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhavya700/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Bhavya700/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhavya700/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0088-merge-sorted-array) |
