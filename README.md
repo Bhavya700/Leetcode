@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Bhavya700/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Bhavya700/Leetcode/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya700/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhavya700/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1013-fibonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bhavya700/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Bhavya700/Leetcode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Doubly-Linked List
 |  |
