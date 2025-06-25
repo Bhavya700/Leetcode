@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Bhavya700/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Bhavya700/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Bhavya700/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0054-spiral-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Bhavya700/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Bhavya700/Leetcode/tree/master/0200-number-of-islands) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bhavya700/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhavya700/Leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Bhavya700/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Bhavya700/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhavya700/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya700/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
