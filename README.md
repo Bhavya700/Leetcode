@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bhavya700/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Bhavya700/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhavya700/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Bhavya700/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya700/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhavya700/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bhavya700/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhavya700/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Bhavya700/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bhavya700/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavya700/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bhavya700/Leetcode/tree/master/0029-divide-two-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Bhavya700/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
