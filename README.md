@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Bhavya700/Leetcode/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bhavya700/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Bhavya700/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Bhavya700/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
