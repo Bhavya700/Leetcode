@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bhavya700/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Bhavya700/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Bhavya700/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhavya700/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/Bhavya700/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bhavya700/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhavya700/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhavya700/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bhavya700/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2636-maximum-subsequence-score](https://github.com/Bhavya700/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhavya700/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Queue
 |  |
 | ------- |
