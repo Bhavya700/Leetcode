@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Bhavya700/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhavya700/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Bhavya700/Leetcode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bhavya700/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Bhavya700/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Bhavya700/Leetcode/tree/master/0338-counting-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhavya700/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
