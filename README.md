@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Bhavya700/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Bhavya700/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bhavya700/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Bhavya700/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhavya700/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
