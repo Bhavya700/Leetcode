@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bhavya700/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Bhavya700/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Bhavya700/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Bhavya700/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bhavya700/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Bhavya700/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhavya700/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhavya700/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bhavya700/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2636-maximum-subsequence-score](https://github.com/Bhavya700/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Bhavya700/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Bhavya700/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Queue
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhavya700/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bhavya700/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2636-maximum-subsequence-score](https://github.com/Bhavya700/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Bhavya700/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
