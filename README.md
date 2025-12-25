@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Bhavya700/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavya700/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Bhavya700/Leetcode/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/Bhavya700/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/Bhavya700/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhavya700/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhavya700/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Bhavya700/Leetcode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/Bhavya700/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavya700/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/Bhavya700/Leetcode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bhavya700/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Bhavya700/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Bhavya700/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Bhavya700/Leetcode/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/Bhavya700/Leetcode/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhavya700/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
