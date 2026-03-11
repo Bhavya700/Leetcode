@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Bhavya700/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Bhavya700/Leetcode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Bhavya700/Leetcode/tree/master/0645-set-mismatch) |
+| [1009-complement-of-base-10-integer](https://github.com/Bhavya700/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bhavya700/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
