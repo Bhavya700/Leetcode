@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1470-shuffle-the-array](https://github.com/Bhavya700/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Bhavya700/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Bhavya700/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1813-maximum-erasure-value](https://github.com/Bhavya700/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/Bhavya700/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Bhavya700/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Bhavya700/Leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Bhavya700/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhavya700/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
