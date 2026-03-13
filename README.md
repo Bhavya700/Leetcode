@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhavya700/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavya700/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Bhavya700/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Bhavya700/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bhavya700/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhavya700/Leetcode/tree/master/0322-coin-change) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bhavya700/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhavya700/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Bhavya700/Leetcode/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/Bhavya700/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhavya700/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavya700/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Bhavya700/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Bhavya700/Leetcode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
