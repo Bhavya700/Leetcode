@@ -1,23 +1,9 @@
-import numpy as np
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        l=len(nums)
-        d=Counter(nums)
-        r=[]
-        if d.get(0) is None:
-            p=np.prod(nums)
-            for i in range(l):
-                r.append(int(p//nums[i]))
-            
-        else:
-            if d[0]==1:
-                r=[0]*l
-                c=nums.index(0)
-                nums.remove(0)
-                p=np.prod(nums)
-                r[c]=int(p)
-
-            else:
-                r=[0]*l
-
-        return r        
+        if nums.count(0) > 1: return [0 for i in nums]
+        prod: int = 1
+        altProd: int = 1
+        for i in nums:
+            prod *= i
+            if i: altProd *= i
+        return [(prod//i if i != 0 else altProd) for i in nums]
