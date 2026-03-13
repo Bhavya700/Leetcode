@@ -4,7 +4,6 @@ class Solution:
         l=len(nums)
         d=Counter(nums)
         r=[]
-        print(d)
         if d.get(0) is None:
             p=np.prod(nums)
             for i in range(l):
