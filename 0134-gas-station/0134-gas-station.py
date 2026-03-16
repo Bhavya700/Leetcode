@@ -1,8 +1,6 @@
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
-        tg = sum(gas)
-        tc = sum(cost)
-        if tc>tg:
+        if sum(cost)>sum(gas):
             return -1
         ans = 0
         total = 0
