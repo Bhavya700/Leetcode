@@ -11,6 +11,8 @@ class Solution:
                 if r>0 and r<numRows-1:
                     if (i+inc-2*r)<n:
                         res+=s[i+inc-(2*r)]
+                    else:
+                        break
         return res
 
 
