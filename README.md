@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya700/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Bhavya700/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhavya700/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Bhavya700/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bhavya700/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1813-maximum-erasure-value](https://github.com/Bhavya700/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhavya700/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Bhavya700/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bhavya700/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Bhavya700/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhavya700/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhavya700/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhavya700/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhavya700/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Bhavya700/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Topological Sort
 |  |
