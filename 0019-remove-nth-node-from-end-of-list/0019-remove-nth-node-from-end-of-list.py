@@ -8,15 +8,16 @@ class Solution:
         if not head.next:
             return None
         dummy = ListNode(0, head)
-        first = dummy
-        second = dummy
-        for _ in range(n + 1):
-            first = first.next
+        r = head
+        l = dummy
+        while r and n>0:
+            r = r.next
+            n-=1
 
-        while first is not None:
-            first = first.next
-            second = second.next
+        while r is not None:
+            r = r.next
+            l = l.next
 
-        second.next = second.next.next
+        l.next = l.next.next
 
         return dummy.next
