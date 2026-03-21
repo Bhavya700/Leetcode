@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bhavya700/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Bhavya700/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bhavya700/Leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Bhavya700/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhavya700/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhavya700/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Bhavya700/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhavya700/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavya700/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
