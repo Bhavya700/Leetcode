@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya700/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Bhavya700/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/Bhavya700/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Bhavya700/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bhavya700/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Bhavya700/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Bhavya700/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bhavya700/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhavya700/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/Bhavya700/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhavya700/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Bhavya700/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2054-two-best-non-overlapping-events](https://github.com/Bhavya700/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhavya700/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bhavya700/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Bhavya700/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Quickselect
 |  |
 | ------- |
