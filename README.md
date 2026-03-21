@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Bhavya700/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/Bhavya700/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Bhavya700/Leetcode/tree/master/0394-decode-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhavya700/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya700/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Bhavya700/Leetcode/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/Bhavya700/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Bhavya700/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Bhavya700/Leetcode/tree/master/0394-decode-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Bhavya700/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya700/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Bhavya700/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhavya700/Leetcode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/Bhavya700/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Bhavya700/Leetcode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhavya700/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/Bhavya700/Leetcode/tree/master/0523-continuous-subarray-sum) |
