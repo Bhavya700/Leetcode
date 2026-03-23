@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Bhavya700/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bhavya700/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1813-maximum-erasure-value](https://github.com/Bhavya700/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhavya700/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Bhavya700/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Bhavya700/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhavya700/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhavya700/Leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bhavya700/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhavya700/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhavya700/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Bhavya700/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhavya700/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Bhavya700/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
