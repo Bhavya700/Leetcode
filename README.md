@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhavya700/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Bhavya700/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Bhavya700/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Bhavya700/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Bhavya700/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhavya700/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Bhavya700/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Bhavya700/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Bhavya700/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Bhavya700/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Bhavya700/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Bhavya700/Leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Bhavya700/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Bhavya700/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhavya700/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/Bhavya700/Leetcode/tree/master/0969-number-of-recent-calls) |
@@ -675,5 +678,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Bhavya700/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/Bhavya700/Leetcode/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
