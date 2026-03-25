@@ -1,10 +1,21 @@
+from bisect import bisect_left
+from typing import List
+
 class Solution:
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
         products.sort()
-        res, cur = [], ''
-        for c in searchWord:
-            cur += c
-            i = bisect.bisect_left(products, cur)
-            res.append([w for w in products[i:i+3] if w.startswith(cur)])
-        return res
-    
+        result = [] 
+        prefix = ""
+
+        for ch in searchWord: 
+            prefix+=ch 
+            i = bisect_left(products, prefix)
+
+            suggestions = []
+            for j in range(i, min(i+3, len(products))):
+                if products[j].startswith(prefix): 
+                    suggestions.append(products[j])
+            
+            result.append(suggestions)
+
+        return result
