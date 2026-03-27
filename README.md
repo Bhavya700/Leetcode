@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Bhavya700/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/Bhavya700/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/Bhavya700/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Bhavya700/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Bhavya700/Leetcode/tree/master/0649-dota2-senate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/Bhavya700/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Stack
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavya700/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhavya700/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Bhavya700/Leetcode/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Bhavya700/Leetcode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhavya700/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -698,4 +702,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bhavya700/Leetcode/tree/master/0148-sort-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
