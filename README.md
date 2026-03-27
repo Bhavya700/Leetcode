@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Bhavya700/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bhavya700/Leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Bhavya700/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhavya700/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bhavya700/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Bhavya700/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Bhavya700/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhavya700/Leetcode/tree/master/0200-number-of-islands) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavya700/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Bhavya700/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhavya700/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
