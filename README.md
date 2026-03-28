@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Bhavya700/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Bhavya700/Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Bhavya700/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bhavya700/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhavya700/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Bhavya700/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Bhavya700/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Bhavya700/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Bhavya700/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bhavya700/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhavya700/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Bhavya700/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Bhavya700/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya700/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Bhavya700/Leetcode/tree/master/0189-rotate-array) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Bhavya700/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Bhavya700/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Bhavya700/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Bhavya700/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Bhavya700/Leetcode/tree/master/0231-power-of-two) |
