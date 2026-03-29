@@ -4,9 +4,10 @@ class Solution:
         maxProfit = []
         nums = sorted(zip(capital, profits))
         i = 0
-
+        l = len(nums)
+        
         for _ in range(k):
-            while i < len(nums) and nums[i][0] <= w:
+            while i < l and nums[i][0] <= w:
                 heapq.heappush(maxProfit, -nums[i][1])
                 i += 1
             
