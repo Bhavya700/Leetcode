@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Bhavya700/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Bhavya700/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Bhavya700/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Bhavya700/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya700/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavya700/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavya700/Leetcode/tree/master/0162-find-peak-element) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhavya700/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhavya700/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhavya700/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Bhavya700/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bhavya700/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Bhavya700/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Bhavya700/Leetcode/tree/master/0169-majority-element) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bhavya700/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Bhavya700/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Bhavya700/Leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Bhavya700/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhavya700/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Bhavya700/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhavya700/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Bhavya700/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavya700/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhavya700/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Bhavya700/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Bhavya700/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhavya700/Leetcode/tree/master/0322-coin-change) |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Bhavya700/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Bhavya700/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Doubly-Linked List
@@ -730,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Bhavya700/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhavya700/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/Bhavya700/Leetcode/tree/master/1268-search-suggestions-system) |
 ## Merge Sort
