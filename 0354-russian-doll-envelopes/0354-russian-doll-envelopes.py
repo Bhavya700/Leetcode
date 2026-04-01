@@ -1,11 +1,13 @@
 class Solution:
     def maxEnvelopes(self, envelopes: List[List[int]]) -> int:
-        envelopes.sort(key=lambda x: (x[0], -x[1]))        
-        res = []
-        for _, h in envelopes:
-            idx = bisect_left(res, h)
-            if idx == len(res):
-                res.append(h)
+        envelopes.sort(key=lambda x: (x[0], -x[1]))
+
+        tails = []
+        for w, h in envelopes:
+            i = bisect_left(tails, h)
+            if i == len(tails):
+                tails.append(h)
             else:
-                res[idx]=h
-        return len(res)
+                tails[i] = h
+
+        return len(tails)
