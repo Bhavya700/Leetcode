@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Bhavya700/Leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Bhavya700/Leetcode/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Bhavya700/Leetcode/tree/master/0778-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bhavya700/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1268-search-suggestions-system](https://github.com/Bhavya700/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Bhavya700/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhavya700/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhavya700/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Bhavya700/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Bhavya700/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bhavya700/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
