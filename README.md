@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhavya700/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Bhavya700/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavya700/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Bhavya700/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Bhavya700/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Bhavya700/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Bhavya700/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhavya700/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Bhavya700/Leetcode/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/Bhavya700/Leetcode/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/Bhavya700/Leetcode/tree/master/0427-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/Bhavya700/Leetcode/tree/master/1036-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bhavya700/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bhavya700/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Bhavya700/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Bhavya700/Leetcode/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/Bhavya700/Leetcode/tree/master/0289-game-of-life) |
 | [1929-concatenation-of-array](https://github.com/Bhavya700/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Bhavya700/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Bhavya700/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
