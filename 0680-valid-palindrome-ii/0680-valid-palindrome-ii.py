@@ -1,10 +1,7 @@
 class Solution:
 
-
     def validPalindrome(self, s: str) -> bool:
         def func(s, l, r) -> bool:
-            if l>r:
-                return False
             while l<r:
                 if s[l]!=s[r]:
                     return False
