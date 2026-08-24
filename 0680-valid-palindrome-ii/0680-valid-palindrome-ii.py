@@ -2,6 +2,8 @@ class Solution:
 
     def validPalindrome(self, s: str) -> bool:
         def func(s, l, r) -> bool:
+            if l>r:
+                return False
             while l<r:
                 if s[l]!=s[r]:
                     return False
@@ -11,8 +13,8 @@ class Solution:
             return True
 
         n = len(s)
-        if n<2:
-            return True
+        # if n<2:
+        #     return True
 
         l = 0
         r = n-1
